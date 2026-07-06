@@ -8,7 +8,7 @@ This project presents an interactive Tableau dashboard built using the Global Su
 
 ## Tools Used
 - Tableau
-- Microsoft Excel
+- Python
 
 ## Dashboard Features
 - Sales and Profit Analysis
